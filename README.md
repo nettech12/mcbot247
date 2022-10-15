@@ -1,6 +1,6 @@
 # Install latest only
 ```js
-npm install minebot24
+npm install minebot247
 ```
 ### create config.json on your working dir
 ```json
