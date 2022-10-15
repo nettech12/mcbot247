@@ -1,0 +1,14 @@
+{
+ "ip": "",
+ "port": "",
+ "name": "adityaop",
+ "password": "",
+ "auto-night-skip": "false",
+ "prefix": "",
+ "login-enabled": "false",
+ "register-cmd": "",
+ "login-cmd": "",
+ "loginmsg": "",
+ "auto-reconnect": "true",
+ "web": "true"  
+}
